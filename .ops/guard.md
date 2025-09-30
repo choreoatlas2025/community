@@ -1,5 +1,7 @@
 # ChoreoAtlas 变更守护（Change Guard）
 
+[English](guard.en.md) | [中文](#)
+
 ## 目的
 确保所有改动在**版本管理**与**审核**下进行；保护"只读仓库"（CE/Pro），避免误改。
 
