@@ -16,7 +16,7 @@ This repository contains governance, policies, and community guidelines for the 
 
 ### Contents
 
-- `.ops/` - Operational policies and procedures ([中文](.ops/guard.md) | [English](.ops/guard.en.md))
+- `.ops/` - Operational policies and procedures ([中文](.ops/guard.zh.md) | [English](.ops/guard.en.md))
 - `.github/` - GitHub templates and workflows
 - `CODEOWNERS` - Code ownership and review assignments
 
@@ -34,6 +34,6 @@ This repository contains governance, policies, and community guidelines for the 
 
 ### 内容
 
-- `.ops/` - 运营策略和流程 ([中文](.ops/guard.md) | [English](.ops/guard.en.md))
+- `.ops/` - 运营策略和流程 ([中文](.ops/guard.zh.md) | [English](.ops/guard.en.md))
 - `.github/` - GitHub 模板和工作流
 - `CODEOWNERS` - 代码所有权和审查分配

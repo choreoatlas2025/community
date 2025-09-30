@@ -1,6 +1,6 @@
 # ChoreoAtlas Change Guard
 
-[English](#) | [中文](guard.md)
+[English](#) | [中文](guard.zh.md)
 
 ## Purpose
 Ensure all changes are made under **version control** and **review**; protect "read-only repositories" (CE/Pro) from accidental modifications.
